@@ -1,2 +1,4 @@
 Cool bar in Kreuzberg (near Görli Park)
- ![Photo Credits: Timeout.com](http://www.timeout.com/berlin/en/bars-and-pubs/bellmans)
+ 
+ ![](http://www.timeout.com/berlin/en/bars-and-pubs/bellmans)
+Photo Credits: [Timeout.com](http://www.timeout.com/berlin/en/bars-and-pubs/bellmans)
