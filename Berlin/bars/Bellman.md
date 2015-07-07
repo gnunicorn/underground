@@ -6,6 +6,5 @@ Cool bar in Kreuzberg (near Görli Park)
 Photo Credits & Review: [Timeout.com](http://www.timeout.com/berlin/en/bars-and-pubs/bellmans)
 
 
-Map! :
-[](map.geojson)
+[Map!](../../map.geojson)
 
