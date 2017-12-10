@@ -1,8 +1,8 @@
-#Der Fette Bulle
+# Der Fette Bulle
 **Kaiserstraße 73, 60329 Frankfurt am Main.**
 
-#Ein Burger ist mehr
-#als nur Hackfleisch auf Brötchen!
+# Ein Burger ist mehr
+# als nur Hackfleisch auf Brötchen!
 
 Zumindest bei DER FETTE BULLE. Dein Burger besteht aus 100 % reinstem Rindfleisch, welches wir von Fachbetrieben aus der Region erhalten. Dies Fleisch wird täglich durch unseren Fleischwolf gedreht, und landet direkt danach auf unserem Grill und frisch zubereitet auf deinem Teller.
 
